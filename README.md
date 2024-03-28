@@ -1,7 +1,5 @@
 # Welcome to MGW-Capital Template
 
----
-
 ### Hey There!
 
 Welcome to MGW-Capital Template, your solution for hassle-free loan-taking website development. Here's why MGW-Capital Template shines:
