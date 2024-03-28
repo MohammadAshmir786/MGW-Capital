@@ -1,4 +1,4 @@
-**Welcome to MGW-Capital Template**
+# Welcome to MGW-Capital Template
 
 ---
 
